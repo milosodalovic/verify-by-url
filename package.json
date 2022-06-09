@@ -1,0 +1,15 @@
+{
+  "name": "verify-by-url-tool",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Delivering skipped audit packages by \"clicking\" their verification url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oddomir",
+  "license": "ISC",
+  "dependencies": {
+    "follow-redirects": "^1.15.1"
+  }
+}
